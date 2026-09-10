@@ -1,4 +1,5 @@
-# 100-days-of-code-c#include <stdio.h>
+// 100-days-of-code-c
+#include <stdio.h>
 
 int main() {
     float celsius, fahrenheit;
